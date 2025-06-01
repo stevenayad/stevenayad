@@ -21,7 +21,7 @@
     <a href="https://www.facebook.com/share/1687wtdPLw/?mibextid=wwXIfr" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
     </a>
-    <a href="https://wa.me/+201202572716" target="_blank">
+    <a href="https://wa.me/+201204615216" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Whatsapp logo" />
     </a>
     <a href="mailto:stevenayad9@gmail.com" target="_blank">
@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left"><h3>I'm Steven Ayad from Cairo,Egypt.</h3><br>- 🔭 I’m working as  .Net Devolper<br>- 📚 I'm currently learning All teconolgies related to Flutter<br>- ⚡ I'm junior CS Student at faculty of Science ASU</p>
+<p align="left"><h3>I'm Steven Ayad from Cairo,Egypt.</h3><br>- 🔭 I’m working as  flutter Devolper<br>- 📚 I'm currently learning All teconolgies related to Flutter<br>- ⚡ I'm junior CS Student at faculty of Science ASU</p>
 
 ###
 
@@ -92,8 +92,6 @@
 <br>
 <br>
 
-👀 visitor count
 
-<img src="https://profile-counter.glitch.me/KyRilloSmaher/count.svg" alt="Hello world" />
 
 ###
